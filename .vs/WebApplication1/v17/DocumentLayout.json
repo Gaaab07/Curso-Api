@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|c:\\users\\gabriel\\source\\repos\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|c:\\users\\gabriel\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|c:\\users\\gabriel\\source\\repos\\webapplication1\\webapplication1\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|c:\\users\\gabriel\\source\\repos\\webapplication1\\webapplication1\\migrations\\20241207033912_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241207033912_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|c:\\users\\gabriel\\source\\repos\\webapplication1\\webapplication1\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|c:\\users\\gabriel\\source\\repos\\webapplication1\\webapplication1\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBACDC1-1549-444E-9556-F4320A781BC2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\Entidades\\Autor.cs",
+              "RelativeToolTip": "WebApplication1\\Entidades\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:13:15.078Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241207033912_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20241207033912_Inicial.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241207033912_Inicial.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20241207033912_Inicial.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241207033912_Inicial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:39:12.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T03:28:22.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:26:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActoresController.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\ActoresController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ActoresController.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\ActoresController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ActoresController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:11:47.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:09:55.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
